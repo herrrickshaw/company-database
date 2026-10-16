@@ -1,0 +1,1287 @@
+country,sector,companies
+AE,Admin & support services,1
+AE,Arts & recreation,3
+AE,Construction,5
+AE,Education,3
+AE,Energy & utilities,5
+AE,Finance & insurance,42
+AE,Health & social work,4
+AE,Hospitality,6
+AE,Information & communication,9
+AE,Manufacturing,23
+AE,Mining & quarrying,6
+AE,Professional & scientific,1
+AE,Real estate,14
+AE,Transport & storage,8
+AE,Unclassified,9
+AE,"Water, waste & remediation",4
+AE,Wholesale & retail,8
+AR,"Agriculture, forestry & fishing",5
+AR,Construction,3
+AR,Energy & utilities,14
+AR,Finance & insurance,9
+AR,Hospitality,2
+AR,Information & communication,4
+AR,Manufacturing,20
+AR,Mining & quarrying,4
+AR,Real estate,3
+AR,Transport & storage,2
+AR,Unclassified,1
+AR,Wholesale & retail,2
+AT,Admin & support services,1
+AT,"Agriculture, forestry & fishing",1
+AT,Construction,3
+AT,Energy & utilities,3
+AT,Finance & insurance,10
+AT,Hospitality,1
+AT,Information & communication,4
+AT,Manufacturing,26
+AT,Mining & quarrying,3
+AT,Real estate,4
+AT,Transport & storage,2
+AT,"Water, waste & remediation",1
+AT,Wholesale & retail,1
+AU,Admin & support services,38
+AU,"Agriculture, forestry & fishing",8
+AU,Arts & recreation,12
+AU,Construction,24
+AU,Education,10
+AU,Energy & utilities,12
+AU,Finance & insurance,130
+AU,Health & social work,14
+AU,Hospitality,21
+AU,Information & communication,161
+AU,Manufacturing,280
+AU,Mining & quarrying,756
+AU,Professional & scientific,6
+AU,Real estate,36
+AU,Transport & storage,12
+AU,Unclassified,8
+AU,"Water, waste & remediation",11
+AU,Wholesale & retail,53
+AZ,Mining & quarrying,1
+BB,Energy & utilities,1
+BB,Finance & insurance,1
+BB,Information & communication,1
+BD,Admin & support services,2
+BD,"Agriculture, forestry & fishing",1
+BD,Construction,3
+BD,Energy & utilities,13
+BD,Finance & insurance,113
+BD,Health & social work,1
+BD,Hospitality,4
+BD,Information & communication,13
+BD,Manufacturing,189
+BD,Mining & quarrying,7
+BD,Real estate,1
+BD,Unclassified,2
+BD,Wholesale & retail,4
+BE,"Agriculture, forestry & fishing",1
+BE,Arts & recreation,1
+BE,Construction,4
+BE,Education,1
+BE,Energy & utilities,4
+BE,Finance & insurance,13
+BE,Health & social work,1
+BE,Information & communication,8
+BE,Manufacturing,48
+BE,Mining & quarrying,5
+BE,Professional & scientific,1
+BE,Real estate,29
+BE,Transport & storage,1
+BE,Unclassified,113
+BE,"Water, waste & remediation",2
+BE,Wholesale & retail,3
+BF,Finance & insurance,2
+BF,Information & communication,1
+BG,Admin & support services,2
+BG,"Agriculture, forestry & fishing",1
+BG,Construction,1
+BG,Energy & utilities,1
+BG,Finance & insurance,28
+BG,Health & social work,1
+BG,Hospitality,5
+BG,Information & communication,5
+BG,Manufacturing,27
+BG,Mining & quarrying,1
+BG,Professional & scientific,1
+BG,Real estate,17
+BG,Transport & storage,2
+BG,Unclassified,7
+BG,Wholesale & retail,3
+BH,Finance & insurance,12
+BH,Hospitality,2
+BH,Information & communication,2
+BH,Manufacturing,2
+BH,Mining & quarrying,1
+BH,Real estate,2
+BH,"Water, waste & remediation",1
+BH,Wholesale & retail,3
+BJ,Finance & insurance,2
+BJ,Hospitality,1
+BM,Energy & utilities,8
+BM,Finance & insurance,22
+BM,Hospitality,1
+BM,Information & communication,3
+BM,Manufacturing,3
+BM,Mining & quarrying,13
+BM,Real estate,2
+BM,Unclassified,1
+BM,"Water, waste & remediation",1
+BM,Wholesale & retail,1
+BR,Admin & support services,3
+BR,"Agriculture, forestry & fishing",5
+BR,Arts & recreation,6
+BR,Construction,16
+BR,Education,8
+BR,Energy & utilities,17
+BR,Finance & insurance,22
+BR,Health & social work,11
+BR,Hospitality,2
+BR,Information & communication,20
+BR,Manufacturing,55
+BR,Mining & quarrying,16
+BR,Real estate,40
+BR,Transport & storage,12
+BR,Unclassified,1
+BR,"Water, waste & remediation",8
+BR,Wholesale & retail,26
+BS,Admin & support services,1
+BS,Manufacturing,1
+BS,Mining & quarrying,1
+BW,Finance & insurance,5
+BW,Hospitality,1
+BW,Information & communication,1
+BW,Manufacturing,1
+BW,Real estate,1
+BW,Wholesale & retail,2
+CA,Admin & support services,19
+CA,"Agriculture, forestry & fishing",10
+CA,Arts & recreation,26
+CA,Construction,9
+CA,Education,4
+CA,Energy & utilities,38
+CA,Finance & insurance,184
+CA,Health & social work,16
+CA,Hospitality,19
+CA,Information & communication,184
+CA,Manufacturing,413
+CA,Mining & quarrying,1484
+CA,Professional & scientific,7
+CA,Real estate,69
+CA,Transport & storage,14
+CA,Unclassified,1
+CA,"Water, waste & remediation",27
+CA,Wholesale & retail,52
+CH,Admin & support services,2
+CH,Arts & recreation,5
+CH,Construction,3
+CH,Energy & utilities,4
+CH,Finance & insurance,42
+CH,Health & social work,2
+CH,Hospitality,2
+CH,Information & communication,25
+CH,Manufacturing,124
+CH,Mining & quarrying,5
+CH,Professional & scientific,3
+CH,Real estate,24
+CH,Transport & storage,3
+CH,Wholesale & retail,9
+CI,"Agriculture, forestry & fishing",2
+CI,Construction,1
+CI,Energy & utilities,1
+CI,Finance & insurance,7
+CI,Information & communication,2
+CI,Manufacturing,11
+CI,Mining & quarrying,3
+CI,Transport & storage,2
+CI,"Water, waste & remediation",1
+CI,Wholesale & retail,3
+CL,Admin & support services,1
+CL,"Agriculture, forestry & fishing",1
+CL,Arts & recreation,4
+CL,Construction,8
+CL,Energy & utilities,14
+CL,Finance & insurance,20
+CL,Health & social work,2
+CL,Hospitality,1
+CL,Information & communication,4
+CL,Manufacturing,34
+CL,Mining & quarrying,3
+CL,Real estate,6
+CL,Transport & storage,1
+CL,Unclassified,9
+CL,"Water, waste & remediation",4
+CL,Wholesale & retail,10
+CN,Admin & support services,91
+CN,"Agriculture, forestry & fishing",43
+CN,Arts & recreation,134
+CN,Construction,137
+CN,Education,44
+CN,Energy & utilities,131
+CN,Finance & insurance,179
+CN,Health & social work,78
+CN,Hospitality,49
+CN,Information & communication,469
+CN,Manufacturing,3970
+CN,Mining & quarrying,229
+CN,Professional & scientific,60
+CN,Real estate,223
+CN,Transport & storage,112
+CN,Unclassified,7
+CN,"Water, waste & remediation",137
+CN,Wholesale & retail,214
+CO,Construction,2
+CO,Energy & utilities,4
+CO,Finance & insurance,9
+CO,Information & communication,2
+CO,Manufacturing,6
+CO,Mining & quarrying,3
+CO,Real estate,1
+CO,Unclassified,2
+CO,Wholesale & retail,2
+CR,Manufacturing,1
+CW,Admin & support services,1
+CY,"Agriculture, forestry & fishing",2
+CY,Arts & recreation,1
+CY,Energy & utilities,3
+CY,Finance & insurance,15
+CY,Health & social work,1
+CY,Hospitality,5
+CY,Information & communication,2
+CY,Manufacturing,14
+CY,Mining & quarrying,8
+CY,Real estate,7
+CY,Wholesale & retail,1
+CZ,Energy & utilities,3
+CZ,Finance & insurance,3
+CZ,Information & communication,1
+CZ,Manufacturing,12
+CZ,Mining & quarrying,1
+CZ,Unclassified,268
+CZ,"Water, waste & remediation",1
+CZ,Wholesale & retail,4
+DE,Admin & support services,10
+DE,"Agriculture, forestry & fishing",4
+DE,Arts & recreation,20
+DE,Construction,10
+DE,Education,2
+DE,Energy & utilities,12
+DE,Finance & insurance,92
+DE,Health & social work,17
+DE,Hospitality,8
+DE,Information & communication,89
+DE,Manufacturing,235
+DE,Mining & quarrying,10
+DE,Professional & scientific,6
+DE,Real estate,46
+DE,Transport & storage,8
+DE,Unclassified,412
+DE,"Water, waste & remediation",4
+DE,Wholesale & retail,33
+DK,Admin & support services,1
+DK,"Agriculture, forestry & fishing",1
+DK,Arts & recreation,9
+DK,Construction,5
+DK,Education,1
+DK,Energy & utilities,1
+DK,Finance & insurance,20
+DK,Health & social work,1
+DK,Information & communication,21
+DK,Manufacturing,69
+DK,Mining & quarrying,1
+DK,Real estate,12
+DK,Transport & storage,7
+DK,Wholesale & retail,5
+DO,Mining & quarrying,1
+EC,Finance & insurance,2
+EC,Manufacturing,6
+EC,Unclassified,1
+EC,Wholesale & retail,1
+EE,Admin & support services,19186
+EE,"Agriculture, forestry & fishing",19315
+EE,Arts & recreation,21022
+EE,Construction,28185
+EE,Education,9900
+EE,Energy & utilities,1713
+EE,Extraterritorial,1
+EE,Finance & insurance,10787
+EE,Health & social work,5465
+EE,Hospitality,8130
+EE,Households,13
+EE,Information & communication,28838
+EE,Manufacturing,15829
+EE,Mining & quarrying,270
+EE,Other services,25903
+EE,Professional & scientific,46830
+EE,Public administration,376
+EE,Real estate,35779
+EE,Transport & storage,14613
+EE,Unclassified,13373
+EE,"Water, waste & remediation",665
+EE,Wholesale & retail,45019
+EG,"Agriculture, forestry & fishing",7
+EG,Arts & recreation,1
+EG,Construction,7
+EG,Education,5
+EG,Energy & utilities,2
+EG,Finance & insurance,45
+EG,Health & social work,6
+EG,Hospitality,9
+EG,Information & communication,5
+EG,Manufacturing,80
+EG,Mining & quarrying,4
+EG,Real estate,30
+EG,Unclassified,2
+EG,Wholesale & retail,5
+ES,Admin & support services,3
+ES,Arts & recreation,2
+ES,Construction,10
+ES,Energy & utilities,16
+ES,Finance & insurance,12
+ES,Health & social work,2
+ES,Hospitality,9
+ES,Information & communication,24
+ES,Manufacturing,57
+ES,Mining & quarrying,4
+ES,Professional & scientific,3
+ES,Real estate,36
+ES,Transport & storage,5
+ES,Unclassified,135
+ES,"Water, waste & remediation",2
+ES,Wholesale & retail,5
+FI,Admin & support services,14
+FI,"Agriculture, forestry & fishing",2
+FI,Arts & recreation,5
+FI,Construction,7
+FI,Energy & utilities,1
+FI,Finance & insurance,18
+FI,Health & social work,4
+FI,Hospitality,2
+FI,Information & communication,30
+FI,Manufacturing,69
+FI,Mining & quarrying,2
+FI,Real estate,8
+FI,Transport & storage,3
+FI,Unclassified,268
+FI,"Water, waste & remediation",2
+FI,Wholesale & retail,11
+FR,Admin & support services,652099
+FR,"Agriculture, forestry & fishing",301394
+FR,Arts & recreation,604452
+FR,Construction,737476
+FR,Education,286516
+FR,Energy & utilities,45384
+FR,Extraterritorial,665
+FR,Finance & insurance,406966
+FR,Health & social work,355730
+FR,Hospitality,488677
+FR,Households,38
+FR,Information & communication,363883
+FR,Manufacturing,343461
+FR,Mining & quarrying,2545
+FR,Other services,970225
+FR,Professional & scientific,974421
+FR,Public administration,49640
+FR,Real estate,3059021
+FR,Transport & storage,253840
+FR,Unclassified,101128
+FR,"Water, waste & remediation",15010
+FR,Wholesale & retail,1251641
+GA,Mining & quarrying,1
+GB,Admin & support services,349275
+GB,"Agriculture, forestry & fishing",41737
+GB,Arts & recreation,121646
+GB,Construction,503135
+GB,Education,104993
+GB,Energy & utilities,16535
+GB,Extraterritorial,96966
+GB,Finance & insurance,218892
+GB,Health & social work,213171
+GB,Hospitality,248829
+GB,Households,125754
+GB,Information & communication,435611
+GB,Manufacturing,211483
+GB,Mining & quarrying,7446
+GB,Other services,208259
+GB,Professional & scientific,627810
+GB,Public administration,8908
+GB,Real estate,606959
+GB,Transport & storage,131920
+GB,Unclassified,216436
+GB,"Water, waste & remediation",16151
+GB,Wholesale & retail,654414
+GE,Finance & insurance,1
+GG,Energy & utilities,1
+GG,Finance & insurance,7
+GG,Hospitality,1
+GG,Manufacturing,2
+GG,Mining & quarrying,5
+GG,Real estate,7
+GG,Wholesale & retail,1
+GH,"Agriculture, forestry & fishing",1
+GH,Energy & utilities,1
+GH,Finance & insurance,12
+GH,Information & communication,3
+GH,Manufacturing,6
+GH,Mining & quarrying,1
+GI,Hospitality,1
+GI,Manufacturing,2
+GI,Mining & quarrying,1
+GL,Finance & insurance,1
+GR,Admin & support services,1
+GR,Arts & recreation,3
+GR,Construction,8
+GR,Energy & utilities,8
+GR,Finance & insurance,12
+GR,Health & social work,1
+GR,Hospitality,5
+GR,Information & communication,21
+GR,Manufacturing,53
+GR,Mining & quarrying,8
+GR,Real estate,12
+GR,Transport & storage,3
+GR,Unclassified,3
+GR,"Water, waste & remediation",2
+GR,Wholesale & retail,13
+HK,Admin & support services,49
+HK,"Agriculture, forestry & fishing",6
+HK,Arts & recreation,42
+HK,Construction,122
+HK,Education,9
+HK,Energy & utilities,36
+HK,Finance & insurance,144
+HK,Health & social work,26
+HK,Hospitality,75
+HK,Information & communication,120
+HK,Manufacturing,400
+HK,Mining & quarrying,39
+HK,Professional & scientific,26
+HK,Real estate,155
+HK,Transport & storage,31
+HK,Unclassified,11
+HK,"Water, waste & remediation",21
+HK,Wholesale & retail,138
+HR,"Agriculture, forestry & fishing",1
+HR,Construction,5
+HR,Energy & utilities,1
+HR,Finance & insurance,7
+HR,Health & social work,1
+HR,Hospitality,10
+HR,Information & communication,3
+HR,Manufacturing,20
+HR,Mining & quarrying,1
+HR,Unclassified,1
+HR,Wholesale & retail,3
+HU,Admin & support services,2
+HU,Construction,2
+HU,Energy & utilities,4
+HU,Finance & insurance,9
+HU,Information & communication,9
+HU,Manufacturing,11
+HU,Mining & quarrying,1
+HU,Real estate,7
+HU,Transport & storage,2
+HU,Unclassified,1
+HU,Wholesale & retail,3
+ID,Admin & support services,9
+ID,"Agriculture, forestry & fishing",29
+ID,Arts & recreation,10
+ID,Construction,29
+ID,Education,3
+ID,Energy & utilities,18
+ID,Finance & insurance,101
+ID,Health & social work,22
+ID,Hospitality,34
+ID,Information & communication,59
+ID,Manufacturing,259
+ID,Mining & quarrying,74
+ID,Professional & scientific,8
+ID,Real estate,79
+ID,Transport & storage,31
+ID,Unclassified,1
+ID,"Water, waste & remediation",3
+ID,Wholesale & retail,78
+IE,Admin & support services,1
+IE,"Agriculture, forestry & fishing",1
+IE,Arts & recreation,1
+IE,Construction,2
+IE,Finance & insurance,6
+IE,Health & social work,1
+IE,Hospitality,1
+IE,Information & communication,7
+IE,Manufacturing,28
+IE,Mining & quarrying,13
+IE,Real estate,1
+IE,Transport & storage,1
+IE,Unclassified,1
+IE,"Water, waste & remediation",1
+IE,Wholesale & retail,2
+IL,Admin & support services,11
+IL,"Agriculture, forestry & fishing",2
+IL,Arts & recreation,4
+IL,Construction,30
+IL,Education,1
+IL,Energy & utilities,14
+IL,Finance & insurance,67
+IL,Health & social work,9
+IL,Hospitality,8
+IL,Information & communication,68
+IL,Manufacturing,238
+IL,Mining & quarrying,24
+IL,Professional & scientific,5
+IL,Real estate,77
+IL,Transport & storage,7
+IL,Unclassified,6
+IL,"Water, waste & remediation",3
+IL,Wholesale & retail,39
+IM,Finance & insurance,4
+IM,Hospitality,2
+IM,Manufacturing,1
+IM,Mining & quarrying,6
+IM,Real estate,1
+IN,Admin & support services,554
+IN,"Agriculture, forestry & fishing",4657
+IN,Arts & recreation,2075
+IN,Construction,14377
+IN,Education,1153
+IN,Energy & utilities,9295
+IN,Finance & insurance,5359
+IN,Health & social work,4306
+IN,Hospitality,3305
+IN,Households,763
+IN,Information & communication,10410
+IN,Manufacturing,65287
+IN,Mining & quarrying,2403
+IN,Other services,120
+IN,Professional & scientific,22094
+IN,Public administration,61
+IN,Real estate,7015
+IN,Transport & storage,5833
+IN,Unclassified,1811
+IN,"Water, waste & remediation",602
+IN,Wholesale & retail,18515
+IS,Arts & recreation,1
+IS,Finance & insurance,5
+IS,Information & communication,3
+IS,Manufacturing,9
+IS,Real estate,4
+IS,Transport & storage,1
+IS,Wholesale & retail,4
+IT,Admin & support services,12
+IT,"Agriculture, forestry & fishing",2
+IT,Arts & recreation,18
+IT,Construction,17
+IT,Education,2
+IT,Energy & utilities,17
+IT,Finance & insurance,46
+IT,Health & social work,6
+IT,Hospitality,7
+IT,Information & communication,62
+IT,Manufacturing,141
+IT,Mining & quarrying,6
+IT,Professional & scientific,12
+IT,Real estate,12
+IT,Transport & storage,10
+IT,Unclassified,268
+IT,"Water, waste & remediation",3
+IT,Wholesale & retail,14
+JE,Energy & utilities,2
+JE,Finance & insurance,12
+JE,Health & social work,1
+JE,Information & communication,3
+JE,Manufacturing,2
+JE,Mining & quarrying,7
+JE,Professional & scientific,1
+JE,Wholesale & retail,1
+JM,"Agriculture, forestry & fishing",1
+JM,Arts & recreation,4
+JM,Education,3
+JM,Energy & utilities,3
+JM,Finance & insurance,18
+JM,Health & social work,6
+JM,Hospitality,3
+JM,Information & communication,1
+JM,Manufacturing,20
+JM,Professional & scientific,2
+JM,Real estate,4
+JM,Transport & storage,3
+JM,Wholesale & retail,15
+JO,Admin & support services,1
+JO,Education,5
+JO,Energy & utilities,2
+JO,Finance & insurance,45
+JO,Health & social work,2
+JO,Hospitality,7
+JO,Information & communication,3
+JO,Manufacturing,29
+JO,Mining & quarrying,3
+JO,Real estate,34
+JO,Transport & storage,7
+JO,Unclassified,3
+JO,Wholesale & retail,5
+JP,Admin & support services,223
+JP,"Agriculture, forestry & fishing",11
+JP,Arts & recreation,124
+JP,Construction,196
+JP,Education,35
+JP,Energy & utilities,35
+JP,Finance & insurance,203
+JP,Health & social work,59
+JP,Hospitality,142
+JP,Information & communication,663
+JP,Manufacturing,1386
+JP,Mining & quarrying,44
+JP,Professional & scientific,87
+JP,Real estate,168
+JP,Transport & storage,74
+JP,Unclassified,43
+JP,"Water, waste & remediation",38
+JP,Wholesale & retail,441
+KE,Admin & support services,1
+KE,"Agriculture, forestry & fishing",4
+KE,Energy & utilities,2
+KE,Finance & insurance,18
+KE,Hospitality,1
+KE,Information & communication,4
+KE,Manufacturing,12
+KE,Mining & quarrying,3
+KE,Professional & scientific,1
+KE,Real estate,2
+KE,Transport & storage,2
+KE,Unclassified,1
+KE,Wholesale & retail,4
+KH,Hospitality,1
+KH,Manufacturing,1
+KR,Admin & support services,23
+KR,"Agriculture, forestry & fishing",16
+KR,Arts & recreation,97
+KR,Construction,61
+KR,Education,19
+KR,Energy & utilities,23
+KR,Finance & insurance,173
+KR,Health & social work,10
+KR,Hospitality,17
+KR,Information & communication,255
+KR,Manufacturing,1844
+KR,Mining & quarrying,29
+KR,Professional & scientific,22
+KR,Real estate,33
+KR,Transport & storage,24
+KR,Unclassified,16
+KR,"Water, waste & remediation",7
+KR,Wholesale & retail,69
+KW,Admin & support services,2
+KW,"Agriculture, forestry & fishing",1
+KW,Arts & recreation,2
+KW,Construction,4
+KW,Education,1
+KW,Energy & utilities,1
+KW,Finance & insurance,43
+KW,Health & social work,2
+KW,Hospitality,3
+KW,Information & communication,4
+KW,Manufacturing,11
+KW,Mining & quarrying,7
+KW,Real estate,32
+KW,Transport & storage,3
+KW,Unclassified,9
+KW,"Water, waste & remediation",2
+KW,Wholesale & retail,6
+KY,Admin & support services,1
+KY,"Agriculture, forestry & fishing",1
+KY,Arts & recreation,3
+KY,Education,1
+KY,Energy & utilities,1
+KY,Finance & insurance,11
+KY,Health & social work,1
+KY,Information & communication,4
+KY,Manufacturing,43
+KY,Mining & quarrying,3
+KY,Professional & scientific,1
+KY,"Water, waste & remediation",2
+KY,Wholesale & retail,1
+KZ,Energy & utilities,2
+KZ,Finance & insurance,5
+KZ,Information & communication,2
+KZ,Manufacturing,3
+KZ,Mining & quarrying,7
+KZ,Transport & storage,1
+LC,Finance & insurance,7
+LC,Real estate,1
+LI,Admin & support services,1
+LI,Finance & insurance,4
+LK,"Agriculture, forestry & fishing",17
+LK,Construction,3
+LK,Energy & utilities,9
+LK,Finance & insurance,64
+LK,Health & social work,7
+LK,Hospitality,36
+LK,Information & communication,9
+LK,Manufacturing,70
+LK,Mining & quarrying,5
+LK,Real estate,18
+LK,Transport & storage,2
+LK,Unclassified,12
+LK,"Water, waste & remediation",2
+LK,Wholesale & retail,18
+LR,Mining & quarrying,1
+LT,Admin & support services,1
+LT,"Agriculture, forestry & fishing",2
+LT,Energy & utilities,5
+LT,Finance & insurance,2
+LT,Hospitality,1
+LT,Information & communication,4
+LT,Manufacturing,7
+LT,Real estate,2
+LT,Unclassified,1
+LT,"Water, waste & remediation",1
+LT,Wholesale & retail,2
+LU,Admin & support services,1
+LU,"Agriculture, forestry & fishing",4
+LU,Arts & recreation,2
+LU,Energy & utilities,1
+LU,Finance & insurance,7
+LU,Health & social work,1
+LU,Hospitality,3
+LU,Information & communication,7
+LU,Manufacturing,9
+LU,Mining & quarrying,4
+LU,Real estate,9
+LU,Transport & storage,3
+LU,"Water, waste & remediation",1
+LU,Wholesale & retail,5
+LV,Finance & insurance,2
+LV,Manufacturing,7
+LV,Wholesale & retail,1
+MA,Construction,5
+MA,Energy & utilities,2
+MA,Finance & insurance,17
+MA,Health & social work,2
+MA,Hospitality,1
+MA,Information & communication,8
+MA,Manufacturing,19
+MA,Mining & quarrying,5
+MA,Real estate,7
+MA,Transport & storage,1
+MA,Wholesale & retail,8
+MC,Energy & utilities,1
+MC,Finance & insurance,1
+MC,Hospitality,1
+MC,Manufacturing,3
+MD,Manufacturing,1
+ME,Information & communication,1
+MH,Energy & utilities,1
+MK,Mining & quarrying,1
+ML,Finance & insurance,1
+MM,Real estate,1
+MN,Manufacturing,1
+MN,Mining & quarrying,1
+MO,Admin & support services,2
+MO,Construction,5
+MO,Hospitality,6
+MO,Information & communication,1
+MO,Manufacturing,3
+MO,Wholesale & retail,1
+MQ,Real estate,1
+MT,"Agriculture, forestry & fishing",1
+MT,Arts & recreation,1
+MT,Finance & insurance,7
+MT,Hospitality,8
+MT,Information & communication,6
+MT,Manufacturing,1
+MT,Mining & quarrying,1
+MT,Real estate,9
+MT,Transport & storage,2
+MT,Wholesale & retail,1
+MU,"Agriculture, forestry & fishing",2
+MU,Energy & utilities,2
+MU,Finance & insurance,15
+MU,Hospitality,13
+MU,Information & communication,1
+MU,Manufacturing,13
+MU,Mining & quarrying,2
+MU,Real estate,7
+MU,Transport & storage,3
+MU,Unclassified,8
+MU,Wholesale & retail,2
+MW,Finance & insurance,6
+MW,Hospitality,2
+MW,Information & communication,2
+MW,Manufacturing,1
+MW,Real estate,2
+MW,Unclassified,1
+MX,Arts & recreation,3
+MX,Construction,3
+MX,Energy & utilities,3
+MX,Finance & insurance,15
+MX,Health & social work,1
+MX,Hospitality,8
+MX,Information & communication,4
+MX,Manufacturing,24
+MX,Mining & quarrying,5
+MX,Real estate,19
+MX,Transport & storage,8
+MX,Unclassified,2
+MX,"Water, waste & remediation",1
+MX,Wholesale & retail,11
+MY,Admin & support services,12
+MY,"Agriculture, forestry & fishing",37
+MY,Arts & recreation,3
+MY,Construction,109
+MY,Education,6
+MY,Energy & utilities,17
+MY,Finance & insurance,39
+MY,Health & social work,17
+MY,Hospitality,31
+MY,Information & communication,107
+MY,Manufacturing,428
+MY,Mining & quarrying,44
+MY,Professional & scientific,6
+MY,Real estate,111
+MY,Transport & storage,24
+MY,Unclassified,15
+MY,"Water, waste & remediation",14
+MY,Wholesale & retail,87
+NA,Finance & insurance,4
+NA,Information & communication,2
+NA,Manufacturing,1
+NE,Finance & insurance,1
+NG,"Agriculture, forestry & fishing",3
+NG,Construction,2
+NG,Energy & utilities,3
+NG,Finance & insurance,40
+NG,Hospitality,4
+NG,Information & communication,10
+NG,Manufacturing,37
+NG,Mining & quarrying,10
+NG,Real estate,4
+NG,Transport & storage,5
+NG,Unclassified,3
+NG,"Water, waste & remediation",1
+NG,Wholesale & retail,3
+NL,Admin & support services,6
+NL,"Agriculture, forestry & fishing",1
+NL,Arts & recreation,3
+NL,Construction,3
+NL,Energy & utilities,3
+NL,Finance & insurance,16
+NL,Hospitality,2
+NL,Information & communication,11
+NL,Manufacturing,42
+NL,Mining & quarrying,3
+NL,Professional & scientific,2
+NL,Real estate,10
+NL,Transport & storage,3
+NL,Unclassified,247
+NL,"Water, waste & remediation",2
+NL,Wholesale & retail,7
+NO,Admin & support services,44367
+NO,"Agriculture, forestry & fishing",89718
+NO,Arts & recreation,96438
+NO,Construction,77495
+NO,Education,41086
+NO,Energy & utilities,2240
+NO,Extraterritorial,94
+NO,Finance & insurance,16413
+NO,Health & social work,63587
+NO,Hospitality,20956
+NO,Households,47142
+NO,Information & communication,53935
+NO,Manufacturing,30385
+NO,Mining & quarrying,2115
+NO,Other services,131223
+NO,Professional & scientific,121440
+NO,Public administration,2064
+NO,Real estate,117636
+NO,Transport & storage,37728
+NO,Unclassified,93928
+NO,"Water, waste & remediation",3222
+NO,Wholesale & retail,72403
+NZ,Admin & support services,3
+NZ,"Agriculture, forestry & fishing",6
+NZ,Arts & recreation,1
+NZ,Energy & utilities,6
+NZ,Finance & insurance,8
+NZ,Health & social work,7
+NZ,Hospitality,5
+NZ,Information & communication,12
+NZ,Manufacturing,34
+NZ,Mining & quarrying,4
+NZ,Real estate,11
+NZ,Transport & storage,6
+NZ,Unclassified,1
+NZ,"Water, waste & remediation",1
+NZ,Wholesale & retail,9
+OM,Admin & support services,2
+OM,"Agriculture, forestry & fishing",1
+OM,Construction,2
+OM,Education,2
+OM,Energy & utilities,11
+OM,Finance & insurance,23
+OM,Hospitality,1
+OM,Information & communication,2
+OM,Manufacturing,22
+OM,Mining & quarrying,9
+OM,Real estate,1
+OM,Unclassified,4
+OM,"Water, waste & remediation",3
+PA,Finance & insurance,1
+PA,Hospitality,1
+PA,Real estate,1
+PA,Transport & storage,1
+PA,Wholesale & retail,1
+PE,Admin & support services,1
+PE,"Agriculture, forestry & fishing",4
+PE,Construction,1
+PE,Energy & utilities,5
+PE,Finance & insurance,10
+PE,Information & communication,2
+PE,Manufacturing,18
+PE,Mining & quarrying,12
+PE,Real estate,1
+PE,Wholesale & retail,2
+PG,Finance & insurance,2
+PG,Mining & quarrying,1
+PG,Unclassified,1
+PH,Admin & support services,1
+PH,Construction,4
+PH,Education,4
+PH,Energy & utilities,20
+PH,Finance & insurance,28
+PH,Health & social work,1
+PH,Hospitality,14
+PH,Information & communication,16
+PH,Manufacturing,38
+PH,Mining & quarrying,31
+PH,Real estate,54
+PH,Transport & storage,6
+PH,Unclassified,16
+PH,"Water, waste & remediation",3
+PH,Wholesale & retail,16
+PK,Admin & support services,3
+PK,"Agriculture, forestry & fishing",5
+PK,Arts & recreation,1
+PK,Construction,1
+PK,Education,1
+PK,Energy & utilities,20
+PK,Finance & insurance,97
+PK,Health & social work,2
+PK,Hospitality,1
+PK,Information & communication,17
+PK,Manufacturing,284
+PK,Mining & quarrying,14
+PK,Real estate,8
+PK,Transport & storage,4
+PK,Unclassified,1
+PK,Wholesale & retail,7
+PL,Admin & support services,27
+PL,"Agriculture, forestry & fishing",2
+PL,Arts & recreation,91
+PL,Construction,39
+PL,Energy & utilities,13
+PL,Finance & insurance,74
+PL,Health & social work,6
+PL,Hospitality,6
+PL,Information & communication,97
+PL,Manufacturing,176
+PL,Mining & quarrying,7
+PL,Professional & scientific,8
+PL,Real estate,26
+PL,Transport & storage,7
+PL,Unclassified,24
+PL,"Water, waste & remediation",9
+PL,Wholesale & retail,43
+PS,Finance & insurance,14
+PS,Information & communication,2
+PS,Manufacturing,8
+PS,Real estate,3
+PS,Transport & storage,1
+PS,Unclassified,1
+PT,Arts & recreation,3
+PT,Construction,3
+PT,Energy & utilities,2
+PT,Finance & insurance,4
+PT,Health & social work,1
+PT,Hospitality,2
+PT,Information & communication,7
+PT,Manufacturing,7
+PT,Mining & quarrying,2
+PT,Real estate,1
+PT,Transport & storage,1
+PT,Wholesale & retail,2
+QA,Arts & recreation,1
+QA,Construction,1
+QA,Education,1
+QA,Energy & utilities,2
+QA,Finance & insurance,19
+QA,Health & social work,1
+QA,Information & communication,3
+QA,Manufacturing,9
+QA,Mining & quarrying,4
+QA,Real estate,5
+QA,Transport & storage,1
+QA,Unclassified,6
+QA,"Water, waste & remediation",1
+QA,Wholesale & retail,1
+RO,Admin & support services,5
+RO,"Agriculture, forestry & fishing",8
+RO,Arts & recreation,2
+RO,Construction,11
+RO,Energy & utilities,8
+RO,Finance & insurance,13
+RO,Health & social work,1
+RO,Hospitality,12
+RO,Information & communication,10
+RO,Manufacturing,85
+RO,Mining & quarrying,12
+RO,Professional & scientific,1
+RO,Real estate,25
+RO,Transport & storage,2
+RO,Unclassified,1
+RO,"Water, waste & remediation",2
+RO,Wholesale & retail,13
+RS,Construction,3
+RS,Energy & utilities,1
+RS,Finance & insurance,1
+RS,Information & communication,1
+RS,Manufacturing,5
+RS,Mining & quarrying,1
+RS,Transport & storage,3
+RS,Wholesale & retail,1
+RU,Mining & quarrying,1
+RW,Finance & insurance,1
+SA,Admin & support services,12
+SA,"Agriculture, forestry & fishing",8
+SA,Arts & recreation,3
+SA,Construction,4
+SA,Education,8
+SA,Energy & utilities,6
+SA,Finance & insurance,47
+SA,Health & social work,25
+SA,Hospitality,15
+SA,Information & communication,24
+SA,Manufacturing,123
+SA,Mining & quarrying,8
+SA,Professional & scientific,4
+SA,Real estate,31
+SA,Transport & storage,11
+SA,Unclassified,6
+SA,"Water, waste & remediation",5
+SA,Wholesale & retail,36
+SD,Finance & insurance,1
+SD,Information & communication,1
+SE,Admin & support services,29
+SE,"Agriculture, forestry & fishing",4
+SE,Arts & recreation,39
+SE,Construction,23
+SE,Education,4
+SE,Energy & utilities,4
+SE,Finance & insurance,62
+SE,Health & social work,9
+SE,Hospitality,11
+SE,Information & communication,150
+SE,Manufacturing,350
+SE,Mining & quarrying,23
+SE,Professional & scientific,7
+SE,Real estate,62
+SE,Transport & storage,3
+SE,Unclassified,484
+SE,"Water, waste & remediation",6
+SE,Wholesale & retail,49
+SG,Admin & support services,24
+SG,"Agriculture, forestry & fishing",4
+SG,Arts & recreation,15
+SG,Construction,53
+SG,Education,5
+SG,Energy & utilities,16
+SG,Finance & insurance,30
+SG,Health & social work,20
+SG,Hospitality,31
+SG,Information & communication,42
+SG,Manufacturing,134
+SG,Mining & quarrying,23
+SG,Professional & scientific,4
+SG,Real estate,74
+SG,Transport & storage,15
+SG,Unclassified,3
+SG,"Water, waste & remediation",12
+SG,Wholesale & retail,67
+SI,Energy & utilities,1
+SI,Finance & insurance,3
+SI,Health & social work,1
+SI,Hospitality,1
+SI,Information & communication,2
+SI,Manufacturing,5
+SI,Real estate,1
+SI,Wholesale & retail,1
+SK,Finance & insurance,1
+SK,Hospitality,1
+SK,Manufacturing,2
+SK,Mining & quarrying,1
+SK,Unclassified,1
+SN,Finance & insurance,2
+SN,Information & communication,1
+SN,Wholesale & retail,1
+SV,Manufacturing,1
+TC,Hospitality,1
+TG,Finance & insurance,2
+TH,Admin & support services,16
+TH,"Agriculture, forestry & fishing",6
+TH,Arts & recreation,14
+TH,Construction,42
+TH,Education,2
+TH,Energy & utilities,38
+TH,Finance & insurance,77
+TH,Health & social work,45
+TH,Hospitality,21
+TH,Information & communication,66
+TH,Manufacturing,300
+TH,Mining & quarrying,23
+TH,Professional & scientific,14
+TH,Real estate,121
+TH,Transport & storage,28
+TH,Unclassified,2
+TH,"Water, waste & remediation",8
+TH,Wholesale & retail,78
+TN,"Agriculture, forestry & fishing",1
+TN,Arts & recreation,1
+TN,Construction,1
+TN,Energy & utilities,1
+TN,Finance & insurance,25
+TN,Information & communication,4
+TN,Manufacturing,25
+TN,Real estate,3
+TN,Transport & storage,1
+TN,Unclassified,1
+TN,Wholesale & retail,8
+TR,Admin & support services,3
+TR,"Agriculture, forestry & fishing",5
+TR,Arts & recreation,6
+TR,Construction,13
+TR,Energy & utilities,36
+TR,Finance & insurance,71
+TR,Health & social work,7
+TR,Hospitality,17
+TR,Information & communication,33
+TR,Manufacturing,276
+TR,Mining & quarrying,8
+TR,Professional & scientific,2
+TR,Real estate,56
+TR,Transport & storage,18
+TR,Unclassified,14
+TR,Wholesale & retail,22
+TT,Arts & recreation,1
+TT,Energy & utilities,1
+TT,Finance & insurance,4
+TT,Health & social work,1
+TT,Hospitality,1
+TT,Information & communication,2
+TT,Manufacturing,7
+TT,Real estate,1
+TT,Unclassified,4
+TT,Wholesale & retail,2
+TW,Admin & support services,16
+TW,"Agriculture, forestry & fishing",3
+TW,Arts & recreation,62
+TW,Construction,48
+TW,Education,7
+TW,Energy & utilities,19
+TW,Finance & insurance,61
+TW,Health & social work,22
+TW,Hospitality,54
+TW,Information & communication,154
+TW,Manufacturing,1617
+TW,Mining & quarrying,10
+TW,Professional & scientific,3
+TW,Real estate,68
+TW,Transport & storage,17
+TW,Unclassified,1
+TW,"Water, waste & remediation",23
+TW,Wholesale & retail,66
+TZ,Finance & insurance,10
+TZ,Information & communication,1
+TZ,Manufacturing,6
+TZ,Transport & storage,2
+UA,"Agriculture, forestry & fishing",2
+UA,Energy & utilities,1
+UA,Finance & insurance,1
+UG,Energy & utilities,1
+UG,Finance & insurance,3
+UG,Information & communication,2
+UG,Manufacturing,2
+US,Admin & support services,155
+US,"Agriculture, forestry & fishing",35
+US,Arts & recreation,141
+US,Construction,78
+US,Education,32
+US,Energy & utilities,98
+US,Finance & insurance,1163
+US,Health & social work,135
+US,Hospitality,127
+US,Information & communication,712
+US,Manufacturing,2158
+US,Mining & quarrying,387
+US,Professional & scientific,51
+US,Real estate,296
+US,Transport & storage,72
+US,Unclassified,19
+US,"Water, waste & remediation",111
+US,Wholesale & retail,259
+UY,Finance & insurance,1
+UY,Hospitality,1
+UY,Manufacturing,1
+UY,Wholesale & retail,1
+VE,"Agriculture, forestry & fishing",1
+VE,Finance & insurance,8
+VE,Information & communication,1
+VE,Manufacturing,14
+VE,Mining & quarrying,1
+VE,Real estate,1
+VG,Finance & insurance,3
+VG,Information & communication,4
+VG,Manufacturing,4
+VG,Mining & quarrying,15
+VG,Wholesale & retail,1
+VN,Admin & support services,8
+VN,"Agriculture, forestry & fishing",5
+VN,Arts & recreation,3
+VN,Construction,85
+VN,Education,1
+VN,Energy & utilities,43
+VN,Finance & insurance,67
+VN,Health & social work,3
+VN,Hospitality,6
+VN,Information & communication,22
+VN,Manufacturing,259
+VN,Mining & quarrying,28
+VN,Professional & scientific,1
+VN,Real estate,64
+VN,Transport & storage,26
+VN,Unclassified,14
+VN,"Water, waste & remediation",6
+VN,Wholesale & retail,34
+ZA,Admin & support services,2
+ZA,"Agriculture, forestry & fishing",1
+ZA,Arts & recreation,1
+ZA,Construction,5
+ZA,Education,3
+ZA,Finance & insurance,30
+ZA,Health & social work,2
+ZA,Hospitality,7
+ZA,Information & communication,18
+ZA,Manufacturing,40
+ZA,Mining & quarrying,16
+ZA,Real estate,28
+ZA,Transport & storage,3
+ZA,Unclassified,8
+ZA,"Water, waste & remediation",1
+ZA,Wholesale & retail,27
+ZM,Energy & utilities,1
+ZM,Finance & insurance,5
+ZM,Information & communication,1
+ZM,Manufacturing,9
+ZM,Mining & quarrying,2
+ZM,Real estate,1
+ZW,Finance & insurance,2
+ZW,Manufacturing,2

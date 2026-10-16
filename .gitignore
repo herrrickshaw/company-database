@@ -1,0 +1,6 @@
+raw/
+lists/
+by_sector_country/
+*.duckdb
+*.duckdb.wal
+__pycache__/
