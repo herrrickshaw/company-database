@@ -156,3 +156,12 @@ def test_load_is_idempotent_per_source(tmpdb):
     z = _gleif_zip(tmpdb, ["U15100MH2010PTC000001", "U15100MH2010PTC000002"])
     build.load("in_mca", z); build.load("in_mca", z)
     assert build.db().execute("SELECT count(*) FROM companies").fetchone()[0] == 1
+
+
+def test_fetch_rejects_unknown_source(tmp_path, monkeypatch):
+    # `build.py fetch typo` used to return None silently (no download, no error)
+    monkeypatch.setattr(build, "RAW", tmp_path / "raw")
+    monkeypatch.setattr(build.urllib.request, "urlopen",
+                        lambda *a, **k: pytest.fail("must not touch the network"))
+    with pytest.raises(ValueError, match="nope"):
+        build.fetch("nope")

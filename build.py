@@ -81,6 +81,7 @@ def fetch(what):
         html = urllib.request.urlopen("https://download.companieshouse.gov.uk/en_output.html").read().decode()
         import re; f = re.search(r"BasicCompanyDataAsOneFile-[\d-]+\.zip", html).group(0)
         return dl("https://download.companieshouse.gov.uk/" + f, RAW / f)
+    raise ValueError(f"unknown fetch source {what!r}; expected gleif or ch")
 
 def unzip(path):
     out = RAW / (pathlib.Path(path).stem + "_x"); out.mkdir(exist_ok=True)
