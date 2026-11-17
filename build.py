@@ -17,6 +17,7 @@ SIC = [(1,3,"Agriculture, forestry & fishing"),(5,9,"Mining & quarrying"),(10,33
  (85,85,"Education"),(86,88,"Health & social work"),(90,93,"Arts & recreation"),(94,96,"Other services"),
  (97,98,"Households"),(99,99,"Extraterritorial")]
 def sic_sector(code):
+    if str(code).strip() == "99999": return None      # Companies House 'Dormant Company', not division 99 (extraterritorial)
     try: d = int(str(code).strip()[:2])
     except Exception: return None
     return next((n for a, b, n in SIC if a <= d <= b), None)
@@ -55,7 +56,8 @@ NIC = [(1,5,"Agriculture, forestry & fishing"),(10,14,"Mining & quarrying"),(15,
  (60,63,"Transport & storage"),(64,64,"Information & communication"),(65,67,"Finance & insurance"),(70,70,"Real estate"),
  (71,71,"Admin & support services"),(72,72,"Information & communication"),(73,74,"Professional & scientific"),
  (75,75,"Public administration"),(80,80,"Education"),(85,85,"Health & social work"),(90,90,"Water, waste & remediation"),
- (91,91,"Other services"),(92,93,"Arts & recreation"),(95,99,"Households")]
+ (91,91,"Other services"),(92,92,"Arts & recreation"),(93,93,"Other services"),(95,97,"Households"),
+ (99,99,"Extraterritorial")]
 def nic_sector(div):
     return next((n for a, b, n in NIC if a <= div <= b), None)
 
